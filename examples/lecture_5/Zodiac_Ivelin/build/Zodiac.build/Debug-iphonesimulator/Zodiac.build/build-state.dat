@@ -1,0 +1,292 @@
+TZodiac
+v7
+r0
+t348617319.164612
+cCheck dependencies
+cProcessInfoPlistFile /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/Info.plist Zodiac-Info.plist
+cCompileXIB /Users/h4cky/Documents/Zodiac/MainWindow.xib
+cCompileXIB /Users/h4cky/Documents/Zodiac/RootViewController.xib
+cProcessPCH /var/folders/QP/QPUXfLEyG0G-tcUyXeLXV++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zodiac_Prefix-deukvlddgcfsfmgkwhaxkfnxeqmd/Zodiac_Prefix.pch.gch Zodiac_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/main.o /Users/h4cky/Documents/Zodiac/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/ZodiacAppDelegate.o /Users/h4cky/Documents/Zodiac/Classes/ZodiacAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/RootViewController.o /Users/h4cky/Documents/Zodiac/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/MyTableViewController.o /Users/h4cky/Documents/Zodiac/Classes/MyTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/Zodiac normal i386
+cGenerateDSYMFile /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app.dSYM /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/Zodiac
+cTouch /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004F04B23D00000000000000EE
+t1325707837
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/Availability.h
+c000000004ABDCA4700000000000019F9
+t1253952071
+s6649
+
+N/Users/h4cky/Documents/Zodiac/Classes/MyTableViewController.h
+c000000004F1737FE0000000000000143
+t1326921726
+s323
+i<UIKit/UIKit.h>
+
+N/Users/h4cky/Documents/Zodiac/Classes/MyTableViewController.m
+c000000004F1741BD0000000000000CB1
+t1326924221
+s3249
+i"MyTableViewController.h"
+
+N/Users/h4cky/Documents/Zodiac/Classes/RootViewController.h
+c000000004F171E5B00000000000000FC
+t1326915163
+s252
+
+N/Users/h4cky/Documents/Zodiac/Classes/RootViewController.m
+c000000004F1742AB00000000000012AA
+t1326924459
+s4778
+i"RootViewController.h"
+i"MyTableViewController.h"
+
+N/Users/h4cky/Documents/Zodiac/Classes/ZodiacAppDelegate.h
+c000000004F1713F400000000000001BA
+t1326912500
+s442
+
+N/Users/h4cky/Documents/Zodiac/Classes/ZodiacAppDelegate.m
+c000000004F17142E0000000000000332
+t1326912558
+s818
+i"ZodiacAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/h4cky/Documents/Zodiac/MainWindow.xib
+c000000004F1713F40000000000002C5D
+t1326912500
+s11357
+
+N/Users/h4cky/Documents/Zodiac/RootViewController.xib
+c000000004F1713F40000000000004320
+t1326912500
+s17184
+
+N/Users/h4cky/Documents/Zodiac/Zodiac_Prefix.pch
+c000000004F1713F4000000000000013E
+t1326912500
+s318
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app
+t1326924464
+s238
+
+N/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app.dSYM
+t1326924464
+s102
+
+N/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/Info.plist
+t1326912653
+s560
+
+N/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/MainWindow.nib
+t1326912654
+s2011
+
+N/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/PkgInfo
+t1326912653
+s8
+
+N/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/RootViewController.nib
+t1326912656
+s1388
+
+N/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/Zodiac
+t1326924464
+s26468
+
+N/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/MyTableViewController.o
+t1326924464
+s41220
+
+N/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/RootViewController.o
+t1326924462
+s36248
+
+N/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/Zodiac.LinkFileList
+c000000004F171DD100000000000001E8
+t1326915025
+s488
+
+N/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/ZodiacAppDelegate.o
+t1326915164
+s39808
+
+N/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/main.o
+t1326912658
+s5940
+
+N/Users/h4cky/Documents/Zodiac/main.m
+c000000004F1713F4000000000000016B
+t1326912500
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/QP/QPUXfLEyG0G-tcUyXeLXV++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zodiac_Prefix-deukvlddgcfsfmgkwhaxkfnxeqmd/Zodiac_Prefix.pch.gch
+t1326912658
+s8753336
+
+NZodiac-Info.plist
+c000000004F1713F4000000000000038D
+t1326912500
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies348617319#348617319#0(0"0(0#1#0"546928#0"0#
+
+CCompileC build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/MyTableViewController.o /Users/h4cky/Documents/Zodiac/Classes/MyTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348617262.530325
+e348617264.404135
+r1
+xCompileC
+xbuild/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/MyTableViewController.o
+x/Users/h4cky/Documents/Zodiac/Classes/MyTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/h4cky/Documents/Zodiac/Classes/MyTableViewController.m348617262#348617264#0(0"0(0#0#61"/Users/h4cky/Documents/Zodiac/Classes/MyTableViewController.m546928#1782"    cd /Users/h4cky/Documents/Zodiac    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-generated-files.hmap -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-own-target-headers.hmap -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-all-target-headers.hmap -iquote /Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-project-headers.hmap -F/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator -I/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/include -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/DerivedSources/i386 -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/DerivedSources -include /var/folders/QP/QPUXfLEyG0G-tcUyXeLXV++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zodiac_Prefix-deukvlddgcfsfmgkwhaxkfnxeqmd/Zodiac_Prefix.pch -c /Users/h4cky/Documents/Zodiac/Classes/MyTableViewController.m -o /Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/MyTableViewController.o0#
+
+CCompileC build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/RootViewController.o /Users/h4cky/Documents/Zodiac/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348617261.326285
+e348617262.529591
+r1
+xCompileC
+xbuild/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/RootViewController.o
+x/Users/h4cky/Documents/Zodiac/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/h4cky/Documents/Zodiac/Classes/RootViewController.m348617261#348617262#0(0"0(0#0#58"/Users/h4cky/Documents/Zodiac/Classes/RootViewController.m546928#1776"    cd /Users/h4cky/Documents/Zodiac    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-generated-files.hmap -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-own-target-headers.hmap -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-all-target-headers.hmap -iquote /Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-project-headers.hmap -F/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator -I/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/include -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/DerivedSources/i386 -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/DerivedSources -include /var/folders/QP/QPUXfLEyG0G-tcUyXeLXV++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zodiac_Prefix-deukvlddgcfsfmgkwhaxkfnxeqmd/Zodiac_Prefix.pch -c /Users/h4cky/Documents/Zodiac/Classes/RootViewController.m -o /Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/ZodiacAppDelegate.o /Users/h4cky/Documents/Zodiac/Classes/ZodiacAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348607964.055370
+e348607964.758358
+r1
+xCompileC
+xbuild/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/ZodiacAppDelegate.o
+x/Users/h4cky/Documents/Zodiac/Classes/ZodiacAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/h4cky/Documents/Zodiac/Classes/ZodiacAppDelegate.m348607964#348607964#0(0"0(0#0#57"/Users/h4cky/Documents/Zodiac/Classes/ZodiacAppDelegate.m546928#1774"    cd /Users/h4cky/Documents/Zodiac    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-generated-files.hmap -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-own-target-headers.hmap -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-all-target-headers.hmap -iquote /Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-project-headers.hmap -F/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator -I/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/include -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/DerivedSources/i386 -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/DerivedSources -include /var/folders/QP/QPUXfLEyG0G-tcUyXeLXV++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zodiac_Prefix-deukvlddgcfsfmgkwhaxkfnxeqmd/Zodiac_Prefix.pch -c /Users/h4cky/Documents/Zodiac/Classes/ZodiacAppDelegate.m -o /Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/ZodiacAppDelegate.o0#
+
+CCompileC build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/main.o /Users/h4cky/Documents/Zodiac/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348605458.566547
+e348605458.888723
+r1
+xCompileC
+xbuild/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/main.o
+x/Users/h4cky/Documents/Zodiac/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/h4cky/Documents/Zodiac/main.m348605458#348605458#0(0"0(0#0#36"/Users/h4cky/Documents/Zodiac/main.m546928#1740"    cd /Users/h4cky/Documents/Zodiac    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-generated-files.hmap -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-own-target-headers.hmap -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-all-target-headers.hmap -iquote /Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-project-headers.hmap -F/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator -I/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/include -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/DerivedSources/i386 -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/DerivedSources -include /var/folders/QP/QPUXfLEyG0G-tcUyXeLXV++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zodiac_Prefix-deukvlddgcfsfmgkwhaxkfnxeqmd/Zodiac_Prefix.pch -c /Users/h4cky/Documents/Zodiac/main.m -o /Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/h4cky/Documents/Zodiac/MainWindow.xib
+s348605453.049381
+e348605455.047408
+r1
+xCompileXIB
+x/Users/h4cky/Documents/Zodiac/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib348605453#348605455#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#44"/Users/h4cky/Documents/Zodiac/MainWindow.xib24724248#454"    cd /Users/h4cky/Documents/Zodiac    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/MainWindow.nib /Users/h4cky/Documents/Zodiac/MainWindow.xib0#
+
+CCompileXIB /Users/h4cky/Documents/Zodiac/RootViewController.xib
+s348605455.048458
+e348605456.680621
+r1
+xCompileXIB
+x/Users/h4cky/Documents/Zodiac/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib348605455#348605456#0(0"0(0#0#52"/Users/h4cky/Documents/Zodiac/RootViewController.xib24724248#470"    cd /Users/h4cky/Documents/Zodiac    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/RootViewController.nib /Users/h4cky/Documents/Zodiac/RootViewController.xib0#
+
+CGenerateDSYMFile /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app.dSYM /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/Zodiac
+s348617264.536944
+e348617264.859910
+r1
+xGenerateDSYMFile
+x/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app.dSYM
+x/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/Zodiac
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Zodiac.app.dSYM build/Debug-iphonesimulator/Zodiac.app/Zodiac348617264#348617264#0(0"0(0#0#75"/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/Zodiac546928#353"    cd /Users/h4cky/Documents/Zodiac    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/Zodiac -o /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app.dSYM0#
+
+CLd /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/Zodiac normal i386
+s348617264.404615
+e348617264.533034
+r1
+xLd
+x/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/Zodiac
+xnormal
+xi386
+lSLF07#2@80"Link /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/Zodiac348617264#348617264#0(0"0(0#0#0"546928#814"    cd /Users/h4cky/Documents/Zodiac    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator -F/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator -filelist /Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Objects-normal/i386/Zodiac.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/Zodiac0#
+
+CProcessInfoPlistFile /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/Info.plist Zodiac-Info.plist
+s348605452.977425
+e348605453.047876
+r1
+xProcessInfoPlistFile
+x/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/Info.plist
+xZodiac-Info.plist
+lSLF07#2@25"Process Zodiac-Info.plist348605453#348605453#0(0"0(0#0#47"/Users/h4cky/Documents/Zodiac/Zodiac-Info.plist24724248#449"    cd /Users/h4cky/Documents/Zodiac    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Zodiac-Info.plist -genpkginfo /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app/Info.plist0#
+
+CProcessPCH /var/folders/QP/QPUXfLEyG0G-tcUyXeLXV++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zodiac_Prefix-deukvlddgcfsfmgkwhaxkfnxeqmd/Zodiac_Prefix.pch.gch Zodiac_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s348605456.681353
+e348605458.566057
+r1
+xProcessPCH
+x/var/folders/QP/QPUXfLEyG0G-tcUyXeLXV++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zodiac_Prefix-deukvlddgcfsfmgkwhaxkfnxeqmd/Zodiac_Prefix.pch.gch
+xZodiac_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Zodiac_Prefix.pch348605456#348605458#0(0"0(0#0#47"/Users/h4cky/Documents/Zodiac/Zodiac_Prefix.pch24724248#1642"    cd /Users/h4cky/Documents/Zodiac    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-generated-files.hmap -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-own-target-headers.hmap -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-all-target-headers.hmap -iquote /Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/Zodiac-project-headers.hmap -F/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator -I/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/include -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/DerivedSources/i386 -I/Users/h4cky/Documents/Zodiac/build/Zodiac.build/Debug-iphonesimulator/Zodiac.build/DerivedSources -c /Users/h4cky/Documents/Zodiac/Zodiac_Prefix.pch -o /var/folders/QP/QPUXfLEyG0G-tcUyXeLXV++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zodiac_Prefix-deukvlddgcfsfmgkwhaxkfnxeqmd/Zodiac_Prefix.pch.gch0#
+
+CTouch /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app
+s348617264.860139
+e348617264.897105
+r1
+xTouch
+x/Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app
+lSLF07#2@74"Touch /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app348617264#348617264#0(0"0(0#0#0"546928#259"    cd /Users/h4cky/Documents/Zodiac    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/h4cky/Documents/Zodiac/build/Debug-iphonesimulator/Zodiac.app0#
+
